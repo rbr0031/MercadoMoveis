@@ -54,7 +54,7 @@
   			</div>
 
   			<?php
-				if (($nivel == 1) || ($nivel == 2)) {
+				if (($nivel == 1)) {
 
 			?>
 
