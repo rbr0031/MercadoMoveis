@@ -1,7 +1,7 @@
 # MercadoMoveis
-Formulário com CRUDcompleto 
+Formulário com CRUD completo 
 
-Um formulário para cadastrar membros da equipe, editar e excluir eles
+Um formulário para cadastrar membros da equipe, editar e excluir eles.
 Além de uma tela de login com permissões para cada usuário, dentre eles:
 
 Admin com permissão para alterar e excluir membros da equipe, juntamente com dar permissão para outros usuarios 
