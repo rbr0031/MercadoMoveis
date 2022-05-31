@@ -19,7 +19,3 @@ para esse fim você tera que abrir localhost/phpmyadmin no google e criar uma ta
 
 Terminando todo esse procedimento, basta digitar localhost/MercadoMoveis-master no google e você já tera acesso ao programa completo.
 
--
--
--
--
