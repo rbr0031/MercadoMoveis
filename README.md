@@ -17,4 +17,4 @@ Para funcionar o programa você deve ter em sua maquina o XAMPP. Tendo ele insta
 Feito isso ira iniciar o control panel do mesmo e dar start nas funções apache e mysql. Antes de poder acessar o programa será necessário importar o banco de dados,
 para esse fim você tera que abrir localhost/phpmyadmin no google e criar uma tabela com o nome de formulario_mm, quando criada só clicar em importar e selecionar o arquivo .sql que esta dentro do zip e as tabelas serão importadas.
 
-Terminando tudo isso, basta digitar localhost/MercadoMoveis-master no google e você já tera acesso ao programa completo.
+Terminando todo esse procedimento, basta digitar localhost/MercadoMoveis-master no google e você já tera acesso ao programa completo.
